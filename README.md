@@ -1,2 +1,2 @@
 # Demo
-.Som descriptio.
+. Some descriptio.
